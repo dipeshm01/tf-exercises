@@ -10,5 +10,5 @@ then you can use in this way -
 ```
 ${random_pet.pqr.id}
 ```
-This variable has been used in the main.tf file. 
+This **reference expression** has been used in the main.tf file. 
 *Note this variable, if used in variables.tf doesn't work. (reason unknown)*
