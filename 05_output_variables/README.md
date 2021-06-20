@@ -17,7 +17,7 @@ Outputs:
 which-petname = "Mrs. airedale"
 ```
 
-- terraform output will print all the output variables
+- `terraform output` will print all the output variables
 
 ```
 MacBook-Pro-van-Dipesh:05_output_variables dipeshmajumdar$ t output
