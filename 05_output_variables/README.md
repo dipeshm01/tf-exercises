@@ -1,4 +1,6 @@
-When you do a `terraform apply` output variables are printed as shown below:
+## output variables
+
+- When you do a `terraform apply` output variables are printed as shown below:
 
 ```
 Changes to Outputs:
@@ -12,5 +14,12 @@ Apply complete! Resources: 1 added, 0 changed, 1 destroyed.
 
 Outputs:
 
+which-petname = "Mrs. airedale"
+```
+
+- terraform output will print all the output variables
+
+```
+MacBook-Pro-van-Dipesh:05_output_variables dipeshmajumdar$ t output
 which-petname = "Mrs. airedale"
 ```
