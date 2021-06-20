@@ -1,0 +1,1 @@
+State is preserved in a file called `terraform.tfstate`
