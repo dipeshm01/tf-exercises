@@ -1,4 +1,5 @@
-[url](http://ndl.iitkgp.ac.in/document/Uk8wZnhNcm53bVNMOUdTTmRmdk5rWkRSNFR4YmlMZmt6VTFzUktKTzhOMjdmYTYxNW5rNUZaNXd0aU13eXo3TA)
+## Equations in 2 variables
+
 1. Solve the following equations by the method of substitution. 6x+9y=10,  3x+4y=5.
 2. Solve the following equations by the method of substitution. 5x-2y=6,  4x-2y=​​​27/4
 3. Solve the following equations by the method of substitution. 1.1x+1.5y+2.3=0,   0.07x-0.2y=2
@@ -21,3 +22,5 @@
 19. Solve for x and y  
     7x+5y=74,   7x+1-5y+1=218
 20. A man travels 300km partly by train and partly by car.  It takes 8hour and 40 min.  If he travels 320 km by train and the rest by car.  It would take 30 min more, if he travels 200km by train and rest by car. Find the speed of the train and the car respectively.
+
+[Link for answers](http://ndl.iitkgp.ac.in/document/Uk8wZnhNcm53bVNMOUdTTmRmdk5rWkRSNFR4YmlMZmt6VTFzUktKTzhOMjdmYTYxNW5rNUZaNXd0aU13eXo3TA)
